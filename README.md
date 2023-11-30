@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a full-stack project that utilizes Java Spring Boot for the backend, React for the frontend, and MongoDB as the database. The project aims to [briefly describe the main goal or functionality of your project].
+This project aims to provide a hands-on learning experience for mastering the diverse technologies involved in full-stack development, including Java Spring Boot for the backend, React for the frontend, and MongoDB for database management.
 
 ## Technologies Used
 
