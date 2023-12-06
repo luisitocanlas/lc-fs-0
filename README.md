@@ -6,11 +6,11 @@ This project aims to provide a hands-on learning experience for mastering the di
 
 ## Technologies Used
 
-- **Backend:**
+- **Backend: (https://github.com/luisitocanlas/anime-season-v1)**
   - Java Spring Boot
   - MongoDB
 
-- **Frontend:**
+- **Frontend: (https://github.com/luisitocanlas/anime-backend)**
   - React
 
 - **Development Tools:**
